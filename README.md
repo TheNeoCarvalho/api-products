@@ -8,5 +8,5 @@ Acesse o endereço da [API](https://api-products.now.sh) para ter acesso aos dad
 <br>
 `/products/:id` - passando o id do produto, retornará apenas o produto com o id informado.
 <br>
-`/prosucts?text={texto}` - passando um texto ou parte do texto que contenha no nome do produto, retornará apenas o produto com o id informado.
+`/prosucts?text={texto}` - passando um texto ou parte do texto que contenha no nome do produto, retornará apenas o produto com o texto foi informado.
 <br>
