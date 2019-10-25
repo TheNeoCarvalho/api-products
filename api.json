@@ -1,0 +1,75 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Tênis Nike ZOOM ALL OUT LOW 2",
+      "price": "129,90",
+      "thumbnail": "https://static.polissport.com.br/public/polissport/imagens/produtos/tenis-nike-zoom-all-out-low-2-masculino-aj0035-003-2086.png",
+      "category": "Calçcados",
+      "manufactured": "Nike"
+    },
+    {
+      "id": 2,
+      "name": "Tênis Nike Air Max 270",
+      "price": "189,00",
+      "thumbnail": "http://d26lpennugtm8s.cloudfront.net/stores/536/783/products/tenis-airmax270id-infrared-0211-fa9f0daada091f512c15281694490440-640-0.png",
+      "category": "Calçcados",
+      "manufactured": "Nike"
+    },
+    {
+      "id": 3,
+      "name": "Tênis Adidas Superstart Foundation Kids WT/BLK",
+      "price": "145.90",
+      "thumbnail": "https://www.convexo.com.br/files/product_image/file/6064/tenis-adidas-superstar-foundation-kids-wt-blk-1.png",
+      "manufactured": "Adidas"
+    },
+    {
+      "id": 4,
+      "name": "Tênis Adidas Yeezy Boost 350",
+      "price": "139,90",
+      "thumbnail": "https://www.importclothes.com.br/img/products/tenis-adidas-yeezy-boost-350-13_2_1200.jpg",
+      "category": "Calçcados",
+      "manufactured": "Adidas"
+    },
+    {
+      "id": 5,
+      "name": "Tênis Nike Sb Check Solar Preto",
+      "price": "99,90",
+      "thumbnail": "https://www.kessostore.com.br/pub/media/catalog/product/cache/a95ad56dd2a79ef00be2f8cdc9ab0431/n/i/nik_1.png",
+      "category": "Calçcados",
+      "manufactured": "Nike"
+    },
+    {
+      "id": 6,
+      "name": "Tênis Asics Gel-Contend 4 A",
+      "price": "129,90",
+      "thumbnail": "https://cdn.moovin.com.br/tenant/single/5ba13431fb0a70e4226accbb80f18615/resource/product/picture/tenis-asics-gel-contend-4-a-d46756465ba9541af7f0ebb82249afb0.png",
+      "category": "Calçcados",
+      "manufactured": "Nike"
+    },
+    {
+      "id": 7,
+      "name": "Bicicleta Stark - Aro 29 - Alumínio - Freio A Disco - Câmbio Shimano - 24 Marchas - Branco e Cinza",
+      "price": "859.99",
+      "thumbnail": "https://static.netshoes.com.br/produtos/bicicleta-stark-aro-29-aluminio-freio-a-disco-cambio-shimano-24-marchas/58/ACN-0023-158/ACN-0023-158_zoom1.jpg",
+      "category": "Bicicletas",
+      "manufactured": "Stark"
+    },
+    {
+      "id": 8,
+      "name": "Bicicleta Stark - Aro 29 - Alumínio - Freio A Disco - Câmbio Shimano - 24 Marchas - Branco e Cinza",
+      "price": "1.149,99",
+      "thumbnail": "https://static.netshoes.com.br/produtos/bicicleta-aro-29-ksw-xlt-21v-cambios-shimano-freio-a-disco-mecanico-com-suspensao/72/CGY-0004-172/CGY-0004-172_zoom2.jpg",
+      "category": "Bicicletas",
+      "manufactured": "KSW"
+    },
+    {
+      "id": 9,
+      "name": "Bicicleta Stark - Aro 29 - Alumínio - Freio A Disco - Câmbio Shimano - 24 Marchas - Branco e Cinza",
+      "price": "1.149,99",
+      "thumbnail": "https://static.netshoes.com.br/produtos/bicicleta-stark-aro-29-aluminio-freio-a-disco-cambio-shimano-24-marchas/58/ACN-0023-158/ACN-0023-158_zoom1.jpg",
+      "category": "Bicicletas",
+      "manufactured": "KSW"
+    }
+  ]
+}
