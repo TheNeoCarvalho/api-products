@@ -1,9 +1,11 @@
 const express = require("express");
 const morgan = require("morgan");
 const products = require("./api.json");
+const cors = require("cors");
 
 const app = express();
 
+app.use(cors());
 app.use(morgan("combined"));
 
 app.get("/", (req, res) => {
@@ -19,7 +21,7 @@ app.get("/products/:id", (req, res) => {
       return res.status(200).json(p);
     }
   });
-  return res.json({ error: "not found" });
+  return res.status(401).json({ erro: "NOT FOUND" });
 });
 
 app.get("/products", (req, res) => {
